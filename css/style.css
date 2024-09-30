@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+DE+Grund:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Lora', serif;
+  color: #F6F6F6;
+  background-color: #363538;
+  margin: 0;
+  padding: 0;
+}
+
+nav, header, footer {
+  background-color: #4F4F51;
+}
+
+nav {
+  background-color: #2C2B30;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: #F6F6F6;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+nav img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+header {
+  padding: 2em 0;
+  text-align: center;
+}
+
+header h1 {
+  color: #F6F6F6;
+  font-weight: 600;
+  font-size: 37px;
+  text-transform: uppercase;
+}
+
+header .subtitle {
+  font-size: 18px;
+  color: #F6F6F6;
+}
+
+main {
+  padding: 2em;
+}
+
+.content {
+  background-color: #fff;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.content img {
+  width: 75%;
+  height: auto;
+  margin: 1em 0;
+}
+
+.text-content {
+  background-color: #f0f0f0;
+  padding: 2em;
+}
+
+.text-content h2 {
+  color: #F6F6F6;
+}
+
+
+.text-content ul {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+
+footer {
+  background-color:#4F4F51;
+  color:  #F6F6F6;
+  text-align: center;
+  padding: 1em 0;
+}
+
+
+.center-content {
+  text-align: center;
+}
+
+.duo-img {
+  width: 25%;
+  height: 25%;
+  margin-left:17%;
+}
+
+.pc-gif {
+  margin-right: 15%;
+  align-self:center;
+  width: 30%;
+}
+
+
+.top-5-img {
+  width: 50%;
+  height: 30%;
+  display: block;
+  margin-left: 3%;
+  margin-right: auto;
+}
+
+.right-centered-paragraph-top5 {
+  width: 45%; 
+  margin-left: auto;
+  margin-right: 20px;
+  text-align: center;
+  margin-top:-350px;
+}
+
+.top-5-link {
+  color:#F6F6F6;
+  width: 45%; 
+  margin-right: -965px;
+  position: relative;
+  top: -370px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 125%
+}
+
+.inspiration-img {
+  width: 45%;
+  height: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: 3%;
+}
+
+.inspo-link {
+  color:#F6F6F6;
+  width: 45%; 
+  margin-left: 430px;
+  position: relative;
+  top: -575px;
+}
+
+.left-centered-paragraph-inspo {
+  width: 45%; 
+  margin-left: 65px;
+  margin-right: auto;
+  text-align: center;
+  margin-top:-555px;
+}
+
+.socials{
+  color:#F6F6F6;
+  text-decoration: none;
+}

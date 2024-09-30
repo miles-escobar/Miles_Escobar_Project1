@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+DE+Grund:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Lora', serif;
+  color: #F6F6F6;
+  background-color: #363538;
+  margin: 0;
+  padding: 0;
+}
+
+nav, header, footer {
+  background-color: #4F4F51;
+}
+
+nav {
+  background-color: #2C2B30;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: #F6F6F6;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+nav img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+header {
+  padding: 2em 0;
+  text-align: center;
+}
+
+header h1 {
+  color: #F6F6F6;
+  font-weight: 600;
+  font-size: 37px;
+  text-transform: uppercase;
+}
+
+header .subtitle {
+  font-size: 18px;
+  color: #F6F6F6;
+}
+
+main {
+  padding: 2em;
+}
+
+.content {
+  background-color: #fff;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.text-content {
+  background-color: #f0f0f0;
+  padding: 2em;
+}
+
+.text-content h2 {
+  color: #F6F6F6;
+}
+
+.text-content ul {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+
+.border {
+  border: 2px solid black;
+}
+
+.list-content {
+  text-align: center;
+  color: #F6F6F6;
+  text-decoration: none;
+}
+
+.fighterz-img {
+  width:30%;
+}
+
+.car-front{
+  width: 20%;
+  height: 20%;
+}
+
+.car-back {
+  width: 22%;
+}
+
+footer {
+  background-color:#4F4F51;
+  color:  #F6F6F6;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 125%
+}
+
+.socials{
+  color:#F6F6F6;
+  text-decoration: none;
+}
